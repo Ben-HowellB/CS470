@@ -1,5 +1,0 @@
-Hello, my name is Ben.
-I am a student working on file systems in C.
-
-I enjoy programming and problem solving.
-This is a sample file to demonstrate libFS features.
